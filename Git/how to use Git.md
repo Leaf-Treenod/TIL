@@ -27,4 +27,5 @@ Add 하기
 Push 하기
 - git push -u origin main
 
--> 명령문에서 -u는 생략해도 괜찮다.
+-> 명령문에서 -u는 생략해도 괜찮다.<br>
+-> commit에서의 명령문 -m은 생략하면 안된다.
