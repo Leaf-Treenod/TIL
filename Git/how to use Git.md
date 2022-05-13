@@ -25,6 +25,6 @@ Add 하기
 - git remote add origin https://github.com/Leaf-github/TIL.git
 
 Push 하기
-- git push origin main
+- git push -u origin main
 
 
