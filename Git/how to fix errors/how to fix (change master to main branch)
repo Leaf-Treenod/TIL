@@ -1,0 +1,16 @@
+내가 현재 사용 하고 있는 브랜치 명을 확인하는 명령어
+- git branch
+
+<br><br>
+브랜치명 변경 방법<br><br>
+ git branch -M [되고싶은 branch name]<br>
+ git branch -m [현재 branch name] [바꾸고싶은 branch name]<br>
+-> 예시 : git branch -m master main
+<br><br>
+
+
+참고 블로그 URL : https://doozi316.github.io/errorlog/2019/09/30/error1/
+
+
+
+ 

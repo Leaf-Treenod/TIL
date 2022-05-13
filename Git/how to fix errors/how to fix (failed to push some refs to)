@@ -1,0 +1,11 @@
+failed to push some refs to 오류
+- 처음 repository를 생성할때 README.md를 생성해서 나타나는 오류이다.<br><br> 
+-> 처음  repository를 만들때 README.md 생성 체크를 해제한다.<br> <br>
+-> 다른 방법으로는 <br> 
+git push -u origin +main<br> 
+과 같이 branch 앞에 +를 붙여주면 된다.<br> <br> 
+
+-> 이 오류가 생기는 이유는
+데이터 유실 등 문제가 있을 수 있는 부분이 있어 git에서 처리 되지 않도록 에러를 띄우는 것이라고 한다.
+
+참고 블로그 URL : https://doozi316.github.io/errorlog/2019/09/30/error1/
