@@ -27,4 +27,4 @@ Add 하기
 Push 하기
 - git push -u origin main
 
-
+-> 명령문에서 -u는 생략해도 괜찮다.
