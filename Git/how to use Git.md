@@ -22,7 +22,9 @@ Add 하기
 히스토리 만들기
 - git commit -m "first commit"
 연결고리 만들기
-- git remote add origin git@github.com:Leaf-github/TIL.git
+- git remote add origin https://github.com/Leaf-github/TIL.git
 
+Push 하기
+- git push origin main
 
 
