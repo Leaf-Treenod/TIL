@@ -20,7 +20,7 @@ Add 하기
 -> add .은 모든 파일을 올린다는 것을 의미한다.<br> -> git add index.html 과 같이 특정 파일만 올릴 수 도 있다.<br><br><br>
 
 히스토리 만들기
-- git commit -m "first commit"
+- git commit -m "first commit"<br>
 연결고리 만들기
 - git remote add origin https://github.com/Leaf-github/TIL.git
 
